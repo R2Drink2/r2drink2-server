@@ -1,0 +1,10 @@
+{ 
+    "0": {"rate": 4.0, "port": [0,32,0], "ingredient":"Cranberry Juice"}, 
+    "1": {"rate": 4.0, "port": [0,16,0], "ingredient":"Grey Goose Vodka"}, 
+    "2": {"rate": 4.0, "port": [0,8,0], "ingredient":"Malibu Rum"}, 
+    "3": {"rate": 4.0, "port": [0,4,0], "ingredient":"Blue Curacao"}, 
+    "4": {"rate": 4.0, "port": [0,2,0], "ingredient":"Midori Melon Liqueur"}, 
+    "5": {"rate": 4.0, "port": [1,0,0], "ingredient":"Peach Schnapps"}, 
+    "6": {"rate": 4.0, "port": [2,0,0], "ingredient":"Pineapple Juice"}, 
+    "7": {"rate": 4.0, "port": [4,0,0], "ingredient":"Orange Juice"}
+}

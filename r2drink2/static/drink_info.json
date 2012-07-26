@@ -1,0 +1,384 @@
+[
+    {
+        "ingredients": {
+            "Malibu Rum": 2.0, 
+            "Midori Melon Liqueur": 2.0, 
+            "Pineapple Juice": 2.0
+        }, 
+        "name": "Alien Secretion", 
+        "qty": 4.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 2.0, 
+            "Blue Curacao": 1.0, 
+            "Orange Juice": 0.5, 
+            "Cranberry Juice": 4.5
+        }, 
+        "name": "Atlas", 
+        "qty": 6.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 3.0, 
+            "Cranberry Juice": 1.0, 
+            "Pineapple Juice": 1.0
+        }, 
+        "name": "Bay Breeze", 
+        "qty": 4.0
+    }, 
+    {
+        "ingredients": {
+            "Blue Curacao": 2.0, 
+            "Peach Schnapps": 4.0
+        }, 
+        "name": "Blue Peach", 
+        "qty": 3.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 2.0, 
+            "Midori Melon Liqueur": 2.0, 
+            "Orange Juice": 3.0
+        }, 
+        "name": "Buzz Lightyear", 
+        "qty": 4.0
+    }, 
+    {
+        "ingredients": {
+            "Cranberry Juice": 2.0, 
+            "Orange Juice": 2.0
+        }, 
+        "name": "Cranberry Frog", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 4.0, 
+            "Cranberry Juice": 2.0, 
+            "Orange Juice": 2.0
+        }, 
+        "name": "Cranberry Toad", 
+        "qty": 6.0
+    }, 
+    {
+        "ingredients": {
+            "Malibu Rum": 1.0, 
+            "Grey Goose Vodka": 2.0, 
+            "Pineapple Juice": 5.0
+        }, 
+        "name": "Doh", 
+        "qty": 6.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 5.0, 
+            "Blue Curacao": 2.5, 
+            "Cranberry Juice": 5.0
+        }, 
+        "name": "Eclipse", 
+        "qty": 4.0
+    }, 
+    {
+        "ingredients": {
+            "Peach Schnapps": 1.0, 
+            "Pineapple Juice": 3.0, 
+            "Grey Goose Vodka": 1.0, 
+            "Cranberry Juice": 3.0
+        }, 
+        "name": "Frooty Loops", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Orange Juice": 6.5, 
+            "Peach Schnapps": 1.5
+        }, 
+        "name": "Fuzzy Navel", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 3.0, 
+            "Peach Schnapps": 3.0
+        }, 
+        "name": "Fuzzy Russian", 
+        "qty": 3.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 1.0, 
+            "Orange Juice": 5.0, 
+            "Peach Schnapps": 1.0
+        }, 
+        "name": "Fuzzy Screw", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Cranberry Juice": 6.5, 
+            "Peach Schnapps": 1.5
+        }, 
+        "name": "Fuzzyberry", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Cranberry Juice": 3.5, 
+            "Orange Juice": 3.5, 
+            "Peach Schnapps": 1.0
+        }, 
+        "name": "Georgia Peach", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Pineapple Juice": 4.0, 
+            "Grey Goose Vodka": 1.0, 
+            "Midori Melon Liqueur": 1.0, 
+            "Cranberry Juice": 2.0
+        }, 
+        "name": "Giraffe", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Midori Melon Liqueur": 1.0, 
+            "Blue Curacao": 1.0, 
+            "Orange Juice": 5.0, 
+            "Grey Goose Vodka": 1.0
+        }, 
+        "name": "Green Love", 
+        "qty": 6.0
+    }, 
+    {
+        "ingredients": {
+            "Midori Melon Liqueur": 2.0, 
+            "Grey Goose Vodka": 2.0
+        }, 
+        "name": "Green Russian", 
+        "qty": 3.0
+    }, 
+    {
+        "ingredients": {
+            "Blue Curacao": 2.0, 
+            "Orange Juice": 3.0
+        }, 
+        "name": "Green Widow", 
+        "qty": 6.0
+    }, 
+    {
+        "ingredients": {
+            "Malibu Rum": 2.0, 
+            "Pineapple Juice": 4.0
+        }, 
+        "name": "Hawaiian Breeze", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 2.0, 
+            "Pineapple Juice": 3.0, 
+            "Orange Juice": 3.0
+        }, 
+        "name": "Hawaiian Screw", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 2.0, 
+            "Cranberry Juice": 1.0, 
+            "Orange Juice": 4.5, 
+            "Peach Schnapps": 2.0
+        }, 
+        "name": "Jamaican Sunrise", 
+        "qty": 6.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 2.0, 
+            "Midori Melon Liqueur": 1.0, 
+            "Cranberry Juice": 5.0
+        }, 
+        "name": "Jolly Rancher", 
+        "qty": 6.0
+    }, 
+    {
+        "ingredients": {
+            "Malibu Rum": 1.0, 
+            "Grey Goose Vodka": 2.0, 
+            "Midori Melon Liqueur": 1.0, 
+            "Pineapple Juice": 4.0
+        }, 
+        "name": "M.V.P.", 
+        "qty": 6.0
+    }, 
+    {
+        "ingredients": {
+            "Malibu Rum": 1.5, 
+            "Cranberry Juice": 2.0, 
+            "Pineapple Juice": 2.0
+        }, 
+        "name": "Malibu Bay Breeze", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Pineapple Juice": 1.0, 
+            "Malibu Rum": 2.0, 
+            "Blue Curacao": 2.0, 
+            "Cranberry Juice": 1.0
+        }, 
+        "name": "Malibu Pop", 
+        "qty": 4.0
+    }, 
+    {
+        "ingredients": {
+            "Malibu Rum": 1.0, 
+            "Grey Goose Vodka": 1.0, 
+            "Orange Juice": 3.0
+        }, 
+        "name": "Malibu Screw", 
+        "qty": 6.0
+    }, 
+    {
+        "ingredients": {
+            "Malibu Rum": 1.0, 
+            "Midori Melon Liqueur": 1.0, 
+            "Orange Juice": 3.0, 
+            "Pineapple Juice": 1.0
+        }, 
+        "name": "Melonball", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Malibu Rum": 3.0, 
+            "Orange Juice": 5.0
+        }, 
+        "name": "Navel Caribbean Love", 
+        "qty": 6.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 1.0, 
+            "Midori Melon Liqueur": 0.5, 
+            "Pineapple Juice": 5.0
+        }, 
+        "name": "Pearl Harbor", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 2.0, 
+            "Blue Curacao": 1.0, 
+            "Orange Juice": 5.0, 
+            "Peach Schnapps": 1.0
+        }, 
+        "name": "Pimp Cocktail", 
+        "qty": 6.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 2.5, 
+            "Blue Curacao": 1.5, 
+            "Cranberry Juice": 1.0
+        }, 
+        "name": "Purple Rain Shot", 
+        "qty": 3.0
+    }, 
+    {
+        "ingredients": {
+            "Malibu Rum": 1.5, 
+            "Grey Goose Vodka": 1.5, 
+            "Pineapple Juice": 3.0, 
+            "Peach Schnapps": 1.5, 
+            "Cranberry Juice": 0.5
+        }, 
+        "name": "Ruby Relaxer", 
+        "qty": 4.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 2.0, 
+            "Orange Juice": 6.0
+        }, 
+        "name": "Screwdriver", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 2.0, 
+            "Blue Curacao": 2.0, 
+            "Orange Juice": 2.0
+        }, 
+        "name": "Shamrocks", 
+        "qty": 4.0
+    }, 
+    {
+        "ingredients": {
+            "Midori Melon Liqueur": 2.0, 
+            "Cranberry Juice": 6.0
+        }, 
+        "name": "Skinny Dipper", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 4.0, 
+            "Midori Melon Liqueur": 1.0, 
+            "Orange Juice": 1.0, 
+            "Cranberry Juice": 1.0
+        }, 
+        "name": "Stop Light", 
+        "qty": 4.0
+    }, 
+    {
+        "ingredients": {
+            "Midori Melon Liqueur": 1.5, 
+            "Orange Juice": 4.0, 
+            "Peach Schnapps": 3.0
+        }, 
+        "name": "Tootsy Pop", 
+        "qty": 5.0
+    }, 
+    {
+        "ingredients": {
+            "Malibu Rum": 2.0, 
+            "Blue Curacao": 2.0, 
+            "Pineapple Juice": 2.0
+        }, 
+        "name": "Tropical Dream", 
+        "qty": 4.0
+    }, 
+    {
+        "ingredients": {
+            "Malibu Rum": 0.5, 
+            "Grey Goose Vodka": 1.0, 
+            "Orange Juice": 6.0, 
+            "Peach Schnapps": 0.5
+        }, 
+        "name": "Tropical Sunrise", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Midori Melon Liqueur": 2.0, 
+            "Peach Schnapps": 2.0, 
+            "Pineapple Juice": 1.0, 
+            "Orange Juice": 3.0, 
+            "Cranberry Juice": 2.0
+        }, 
+        "name": "Wonder Woman", 
+        "qty": 8.0
+    }, 
+    {
+        "ingredients": {
+            "Grey Goose Vodka": 1.5, 
+            "Cranberry Juice": 3.5, 
+            "Peach Schnapps": 1.5
+        }, 
+        "name": "Woo Woo", 
+        "qty": 6.0
+    }
+]

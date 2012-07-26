@@ -1,0 +1,9 @@
+Flask
+ElementTree
+Jinja2
+argh
+BeautifulSoup
+simplejson
+isodate
+pyserial
+nose

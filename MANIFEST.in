@@ -1,0 +1,3 @@
+recursive-include r2drink2/templates *
+recursive-include r2drink2/static *
+include r2drink2/config.cfg
